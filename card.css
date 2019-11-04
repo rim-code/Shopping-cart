@@ -1,0 +1,35 @@
+.to_right{
+    padding-left: 800px;
+}
+.dropdown-item{
+    padding-left: 800px;
+
+}
+.carousel-inner img{
+    width: 100%;
+    height: 500px;
+}
+.fa-shopping-cart:before {
+    padding: 10px;
+}
+.header-total{
+    background-color:#343a40;
+    color: white;
+}
+.row-item{
+    padding-left: 200px;
+    align-items: center;
+    text-align: center;
+   
+}
+.image-item img{
+    max-width: 100%;
+}
+button.btn-outline-danger{
+    border: none;
+}
+button.btn.btn-success {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
